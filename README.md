@@ -31,11 +31,12 @@ print("Total Words:",len(words))
 
 ### OUTPUT:
 text file:
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/61030a5c-8b97-4e9b-879e-2655a3f0a950)
+
 
 output image:
+![image](https://github.com/user-attachments/assets/6b512c4a-77b7-452a-a44f-48028b86fb31)
 
-![alt text](image.png)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
